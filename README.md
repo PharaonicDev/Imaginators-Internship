@@ -54,3 +54,6 @@ The browser will open a list of files stored under the "HTDocs" folder on your c
 
 ## License
  This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+
+![screencapture-localhost-__w-14-imaginators-internship-2018-08-03-00_30_04](https://user-images.githubusercontent.com/20942250/43614768-21a8e376-96b5-11e8-8cb5-38babd9707ae.png)
+
